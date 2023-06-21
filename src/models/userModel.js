@@ -5,7 +5,10 @@ require('moment-timezone');
 const UserSchema = new mongoose.Schema({
     name: { type: String, required: true },
     plate: { type: String, required: true, unique: true},
-    entryTime: { type: Date, default: moment().tz('America/Sao_Paulo'), required: true }
+    entryTime: { type: Date, default: moment().tz('America/Sao_Paulo'), required: true },
+    methodPayment: { type: String, required: true },
+    parkingSpot: { type: Number, required: true },
+    paidTime: { type: Number, required: true },
 })
 
 export default mongoose.models.User || mongoose.model('User', UserSchema) // se tiver o modelo usuário retorna esse modelo, senão,

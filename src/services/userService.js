@@ -1,5 +1,5 @@
 import databaseConnection from "../utils/database"
-import User from '../models/user'
+import User from '../models/userModel'
 
 export const listUsers = async () => {
     await databaseConnection()

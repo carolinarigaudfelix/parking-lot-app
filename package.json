@@ -2,15 +2,16 @@
   "name": "parking-lot-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sever.js",
   "scripts": {
-    "dev": "nodemon --exec babel-node src/index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
+    "babel-node": "^0.0.1-security",
     "babel-preset-env": "^1.7.0",
     "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
