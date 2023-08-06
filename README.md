@@ -16,7 +16,7 @@
 
   <br><br><br>
   <p>DashBoard em Power BI</p>
-  <a href="https://ibb.co/Qf4Xjhv"><img src="https://i.ibb.co/Qf4Xjhv/Dash-Board-Parking-Lot-BI.png" alt="Dash-Board-Parking-Lot-BI" border="0"></a>
+  <a href="https://ibb.co/Qf4Xjhv"><img src="https://i.ibb.co/qdvxFhY/Dash-Board-Parking-Lot-BI.png" alt="Dash-Board-Parking-Lot-BI" border="0" /></a>
   <br><br><br>
 </div>
 
