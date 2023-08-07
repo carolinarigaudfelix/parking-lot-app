@@ -16,8 +16,13 @@
 
   <br><br><br>
   <p>DashBoard em Power BI</p>
-  <a href="https://ibb.co/Qf4Xjhv"><img src="https://i.ibb.co/qdvxFhY/Dash-Board-Parking-Lot-BI.png" alt="Dash-Board-Parking-Lot-BI" border="0" /></a>
+  <p>Modo Escuro</p>
+  <a href="https://ibb.co/hY3YfBZ"><img src="https://i.ibb.co/WVmVtkP/D1P.png" alt="D1P" border="0" /></a>
+  <br><br>
+  <p>Modo Claro</p>
+  <a href="https://ibb.co/MPYrjZP"><img src="https://i.ibb.co/5sNmzGs/DLP1.png" alt="DLP1" border="0" /></a>
   <br><br><br>
+
 </div>
 
    <h3>Comentários</h3>
